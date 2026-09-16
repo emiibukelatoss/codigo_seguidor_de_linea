@@ -351,5 +351,5 @@ Este proyecto fue realizado como parte de un trabajo de **robótica y programaci
 
 El resultado esperado es un robot que pueda recorrer una pista siguiendo una línea negra de forma autónoma, realizando correcciones según la posición de la línea y recuperándola cuando momentáneamente deje de detectarla.
 
-link de wokwi: https://wokwi.com/projects/473330498458242049
-link de documentación: https://docs.google.com/document/d/1bF2HbH2YWNZNG3CmXG7nk6wNBK1XAkp3UjP9ga0ktmE/edit?usp=sharing
+Link de wokwi: https://wokwi.com/projects/473330498458242049
+Link de documentación: https://docs.google.com/document/d/1bF2HbH2YWNZNG3CmXG7nk6wNBK1XAkp3UjP9ga0ktmE/edit?usp=sharing
